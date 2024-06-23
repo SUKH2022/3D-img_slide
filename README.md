@@ -98,4 +98,4 @@ The CSS handles the 3D transformations, animations, and responsive design adjust
 ### Sukhpreet Saini
 Tech Enthusiast | Computer Programming and Analysis Student
 
-Follow me on GitHub for more exciting projects!
+Follow me on [GitHub](https://github.com/SUKH2022)for more exciting projects!
